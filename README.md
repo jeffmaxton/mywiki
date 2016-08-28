@@ -1,2 +1,3 @@
 mywiki
-[[page2]]
+
+[page2]

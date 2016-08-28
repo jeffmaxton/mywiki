@@ -1,1 +1,2 @@
 mywiki
+[[page2]]

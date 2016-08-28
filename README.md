@@ -1,3 +1,1 @@
-mywiki
-
-[page2]
+[Wiki](https://github.com/jeffmaxton/mywiki/wiki)
